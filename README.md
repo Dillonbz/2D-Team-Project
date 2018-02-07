@@ -1,6 +1,6 @@
 # 2D-Team-Project useful links:
 
-https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game
+* [Unity 2D Tutorial](https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game)
 
 
 
