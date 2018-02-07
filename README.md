@@ -1,6 +1,15 @@
-# 2D-Team-Project
+# 2D-Team-Project useful links:
 
 https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game
+
+
+
+
+
+
+
+
+
 
 # Below is a guide on writing in github readme's:
 
